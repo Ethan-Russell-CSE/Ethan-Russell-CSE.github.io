@@ -11,6 +11,10 @@ p {
   margin-top: 5px;
 }
 
+a:visited {
+	color: red;
+}
+
 h2 {
   margin-bottom: 5px;
 }
