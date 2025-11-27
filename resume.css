@@ -1,0 +1,19 @@
+h1 {
+	text-align: center;
+  line-height: 1.5;
+	font-weight: normal;
+	font-size: 20pt;
+}
+p{
+  line-height: 1.5;
+}
+
+h2 {
+	text-decoration: underline;
+	font-weight: normal;
+}
+
+body {
+	padding-left: 10%;
+	padding-right: 10%;
+}
